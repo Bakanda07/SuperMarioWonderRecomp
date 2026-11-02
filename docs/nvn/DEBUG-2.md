@@ -497,4 +497,5 @@ GitHub (issues #43-#48): the glitches in the user's recording of course 1-1 (`do
       depth came out alike (no black silhouettes in the opening, world map or course without it); Metal and Adreno
       keep 4. `NX_EQUAL_SLACK=4`: as before.
     - Check: hidden runs of the opening course as Blue Toad and Yellow Toad: both eyes; world map and a course clean.
+      The owner's play as Toadette: both eyes.
 
